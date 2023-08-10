@@ -11,7 +11,7 @@ This repository provides scripts and resources for creating a custom face detect
 - `train_model.ipynb`: Jupyter Notebook for training the SVM model with augmented positive images, hard negative mining and custom techniques.
 - `svm_with_hard_negatives`: Pre-trained SVM model saved using joblib.
 - `utils.py`: Utility functions and libraries necessary for script execution.
-- `Face_Detection_COLAB.ipynb`: Jupyter Notebook for running face detection on Google Colab.
+- `Face_Detection_COLAB.ipynb`: Jupyter Notebook for running face detection on Google Colab (end-to-end executable).
 
 ## Approach Overview
 
